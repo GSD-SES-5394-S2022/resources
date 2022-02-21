@@ -15,7 +15,7 @@ This page includes resources for students to refer to as they work on course ass
 
 * [Assignment 2](https://gsd-ses-5394-s2022.github.io/Richmond/a2_skills.html){target="_blank"}
 * [Assignment 4](https://gsd-ses-5394-s2022.github.io/Richmond/a4_skills.html){target="_blank"}
-* Assignment 5 (coming soon)
+* [Assignment 5](https://gsd-ses-5394-s2022.github.io/Richmond/a5_skills.html){target="_blank"}
 
 # Student work
 
@@ -48,3 +48,19 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * Lecture 7: GTFS and OpenStreetMap file formats (no slides or notes)
 * [Lecture 8](https://gsd-ses-5394.github.io/accessibilty/){target="_blank"}: Accessibility concepts
 * [Lecture 9](https://urban-stack.shinyapps.io/access-decay/){target="_blank"}: Accessibilty measurement
+
+# Potential final exam questions
+
+* What are the four steps referenced in a traditional four-step travel demand model?
+* What inputs are needed to generate a travel time skim?
+* What inputs are needed to calculate accessibility?
+* What is a traffic analysis zone?
+* What are some problems with large traffic analysis zones?
+* What are some problems with small traffic analysis zones?
+* What is NCHRP 716?
+* Who wrote the book Modelling Transport we've read from in this class?
+* What is a logsum?
+* What type of decay function is suited to a cumulative-opportunity-based accessibility measure?
+* What type of decay function is suited to a gravity-based accessibility measure?
+* What type of decay functionis suited to a utility-based accessibility measure?
+
