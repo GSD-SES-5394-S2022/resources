@@ -17,6 +17,7 @@ This page includes resources for students to refer to as they work on course ass
 * [Assignment 4](https://gsd-ses-5394-s2022.github.io/Richmond/a4_skills.html){target="_blank"}
 * [Assignment 5](https://gsd-ses-5394-s2022.github.io/Richmond/a5_skills.html){target="_blank"}
 * [Assignment 6](https://gsd-ses-5394-s2022.github.io/Richmond/a6_skills.html){target="_blank"}
+* [Assignment 7](https://gsd-ses-5394-s2022.github.io/Richmond/a6_skills.html){target="_blank"}
 
 # Student work
 
@@ -49,6 +50,10 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * Lecture 7: GTFS and OpenStreetMap file formats (no slides or notes)
 * [Lecture 8](https://gsd-ses-5394.github.io/accessibilty/){target="_blank"}: Accessibility concepts
 * [Lecture 9](https://urban-stack.shinyapps.io/access-decay/){target="_blank"}: Accessibilty measurement
+* Lecture 10: Predictors of vehicle access (no slides or notes)
+* Lecture 11: Modeling vehicle access (no slides or notes)
+* [Lecture 12](https://gsd-ses-5394-s2022.github.io/resources/lecture-notes/Lecture12.pdf){target="_blank": Trip generation concepts 
+* [Lecture 13](https://gsd-ses-5394-s2022.github.io/resources/lecture-notes/Lecture13.pdf){target="_blank": Modeling trip generation based on household travel surveys
 
 # Potential final exam questions
 
@@ -64,4 +69,14 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * What type of decay function is suited to a cumulative-opportunity-based accessibility measure?
 * What type of decay function is suited to a gravity-based accessibility measure?
 * What type of decay functionis suited to a utility-based accessibility measure?
+* Why would it be necessary to balance trip productions and attractions after estimating them?
+* What is a typical approach to balancing trip productions and attractions?
+* What is the difference (or relationship) between a trip and a tour?
+* What is a trip origin?
+* What is a trip destination?
+* What is a trip production?
+* What is a trip attraction?
+* What does it mean for a trip to be "home-based"?
+* What inputs are typically used to estimate a trip production model?
+* What inputs are typically used to estimate a trip attraction model?
 
