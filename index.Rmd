@@ -69,7 +69,6 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * What are some problems with large traffic analysis zones?
 * What are some problems with small traffic analysis zones?
 * What is NCHRP 716?
-* Who wrote the book Modelling Transport we've read from in this class?
 * What is a logsum?
 * What type of decay function is suited to a cumulative-opportunity-based accessibility measure?
 * What type of decay function is suited to a gravity-based accessibility measure?
@@ -85,4 +84,7 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * What inputs are typically used to estimate a trip production model?
 * What inputs are typically used to estimate a trip attraction model?
 * What inputs do you need to estimate trip distribution using a gravity model?
+* What is the red bus / blue bus paradox?
+* What step of the four-step travel demand models are discrete choice models most commonly used for?
+
 
