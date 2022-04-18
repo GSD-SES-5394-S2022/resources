@@ -86,5 +86,6 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * What inputs do you need to estimate trip distribution using a gravity model?
 * What is the red bus / blue bus paradox?
 * What step of the four-step travel demand models are discrete choice models most commonly used for?
-
+* What is Wardrop's equilibrium?
+* What is the generalized cost of travel?
 
