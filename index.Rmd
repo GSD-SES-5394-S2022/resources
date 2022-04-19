@@ -59,6 +59,7 @@ I think it can be helpful to see what your classmates are producing. All GitHub 
 * [Lecture 13](https://gsd-ses-5394-s2022.github.io/resources/lecture-notes/Lecture13.pdf){target="_blank"}: Modeling trip generation based on household travel surveys
 * Lecture 14: Mode choice concepts (no slides or notes)
 * [Lecture 15](https://gsd-ses-5394-s2022.github.io/resources/lecture-notes/Lecture15.xlsx){target="_blank"}: Modeling trip distribution
+* [Lecture 21:](https://gsd-ses-5394-s2022.github.io/resources/lecture-notes/Lecture21.pdf) Wardrop's equilibrium, congested assignment
 
 # Potential final exam questions
 
